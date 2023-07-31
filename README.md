@@ -1,2 +1,2 @@
 # LC-solutions
-Solutions for leetcode
+Solutions for leet code algorithms section in Python
